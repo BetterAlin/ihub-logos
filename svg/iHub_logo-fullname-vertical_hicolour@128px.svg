@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
+   width="598.9613"
+   height="128.00003"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
@@ -149,25 +149,25 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="302.74975"
-     inkscape:cy="12.366058"
+     inkscape:cx="433.53902"
+     inkscape:cy="12.366098"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1309"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4"
+     inkscape:window-width="1366"
      inkscape:window-height="747"
-     inkscape:window-x="57"
+     inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="0,1"
-       position="-223.00757,278.85718"
+       position="-235.07544,278.85722"
        id="guide3891" />
   </sodipodi:namedview>
   <metadata
@@ -186,7 +186,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(13.421,-938.21936)">
+     transform="translate(1.3531285,-938.21936)">
     <path
        style="fill:url(#radialGradient3923);fill-opacity:1;stroke:none"
        d="m 98.511128,1014.287 c 0,26.4722 -21.459957,47.9321 -47.932129,47.9321 -26.472181,0 -47.9321275,-21.4599 -47.9321275,-47.9321 0,-26.47225 21.4599465,-47.9322 47.9321275,-47.9322 26.472172,0 47.932129,21.45995 47.932129,47.9322 z"
@@ -201,11 +201,11 @@
     <path
        inkscape:connector-curvature="0"
        d="m 46.861632,1062.0436 c 1.23378,0.095 2.461907,0.1758 3.720086,0.1758 0.772896,0 1.520841,-0.081 2.284777,-0.1172 l 0,-20.7387 c 3.327385,-0.392 8.887159,-1.5112 14.470254,-4.6575 8.8143,-4.9672 17.68019,-15.4048 17.809544,-34.7111 0.0927,-13.83252 -8.423905,-28.29948 -16.696448,-39.57347 -8.272542,-11.274 -16.579279,-19.33273 -16.579279,-19.33273 a 3.0083131,3.0083131 0 0 0 -2.460529,-0.84947 3.0083131,3.0083131 0 0 0 -1.786813,0.90805 c 0,0 -7.857777,8.06513 -15.700519,19.33273 -7.842742,11.2676 -15.905563,25.71412 -15.905563,39.48569 0,18.9352 8.411279,29.372 16.842908,34.4474 5.435941,3.2722 10.822447,4.4551 14.001582,4.8918 l 0,20.7387 z m 2.987785,-112.39349 c 2.408404,2.4613 7.537524,7.85494 13.767246,16.34494 7.949112,10.83322 15.599933,24.73017 15.524767,35.94125 -0.117645,17.5596 -7.430245,25.4106 -14.733882,29.5265 -4.390662,2.4743 -8.742874,3.4479 -11.541053,3.8372 l 0,-12.742 a 3.0086808,3.0086808 0 0 0 -3.04637,-3.0757 3.0086808,3.0086808 0 0 0 -2.958493,3.0757 l 0,12.6834 c -2.658037,-0.4419 -6.753538,-1.4898 -10.896629,-3.9837 -6.948975,-4.1829 -13.942998,-12.0625 -13.942998,-29.292 0,-11.31233 7.313189,-25.22894 14.851051,-36.05853 5.865254,-8.42655 10.664045,-13.75869 12.976362,-16.25706 z m 0.410088,43.82085 c -8.958444,-0.17712 -17.589324,4.9223 -21.471045,13.59154 a 3.0083131,3.0083131 0 1 0 5.477606,2.4605 c 3.846927,-8.5915 13.84619,-12.40024 22.437682,-8.5532 3.716393,1.664 6.70864,4.6022 8.4361,8.2895 a 3.0083131,3.0083131 0 1 0 5.448314,-2.5483 c -2.338796,-4.9923 -6.392323,-8.99524 -11.423885,-11.24818 -2.889729,-1.29391 -5.918627,-1.93282 -8.904772,-1.99186 z m -0.205044,9.72494 c -5.168461,-0.098 -10.155414,2.8292 -12.390521,7.821 a 3.0083131,3.0083131 0 1 0 5.477606,2.4606 c 1.651461,-3.6883 5.890198,-5.2837 9.578489,-3.6323 1.587683,0.711 2.894191,1.9691 3.632209,3.5444 a 3.0083131,3.0083131 0 1 0 5.419023,-2.5777 c -1.349355,-2.8803 -3.687832,-5.1738 -6.590702,-6.4736 -1.663919,-0.745 -3.403282,-1.1096 -5.126103,-1.1424 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient3917);fill-opacity:1;stroke:none;stroke-width:6.16807938;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3917);fill-opacity:1;stroke:none;stroke-width:6.16807938;marker:none;enable-background:accumulate"
        id="path3785" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:54.08511353px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#375452;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:54.08511353px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#375452;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="111.7766"
        y="992.94128"
        id="text3356"
@@ -214,15 +214,15 @@
          id="tspan3358"
          x="111.7766"
          y="992.94128"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;fill:#375452;fill-opacity:1;">Inquiry Hub</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;fill:#375452;fill-opacity:1">Inquiry Hub</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3360"
        y="1050.7985"
        x="111.7766"
-       style="font-style:normal;font-weight:normal;font-size:54.08511353px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#375452;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:54.08511353px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#375452;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;fill:#375452;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;fill:#375452;fill-opacity:1"
          y="1050.7985"
          x="111.7766"
          id="tspan3362"
