@@ -1,6 +1,6 @@
 # Inquiry Hub Secondary School Logos
 
-## _This repository may be out of date regarding which assets are availible; please add reuests as issues in Github_
+### _This repository may be out of date regarding which assets are availible; please add requests as issues in Github_
 
 Here's a quick preview:
 
