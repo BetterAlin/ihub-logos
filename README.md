@@ -6,7 +6,7 @@ I'm currently working on expanding the low-colour and no-colour selections for l
 
 ### How this Repository is Organised
 
-The repo is sorted by file type into folders, each folder contains assets in various sizes generated from the SVG files in the `/svg` folder. The `autoconvert.sh` script is pretty old, and not very well made, so everything is not always converted. When in doubt, use the SVG files!
+The repo is sorted by file type into folders, each folder contains assets in various sizes generated from the SVG files in the `/svg` folder. The `autoconvert.sh` script is pretty old, and not very well made, so everything might always be converted. When in doubt, use the SVG files!
 
 The filenames hold most of the information about the asset. Take this example: `iHub_icon-master_hicolour@128px.svg`.
 
